@@ -1,0 +1,13 @@
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\ThisMightWork.exe.config
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\ThisMightWork.exe
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\ThisMightWork.pdb
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\LightBuzz.Vitruvius.dll
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\websocket-sharp.dll
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\LightBuzz.Vitruvius.xml
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x64\Debug\websocket-sharp.xml
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\obj\x64\Debug\ThisMightWork.exe
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\obj\x64\Debug\ThisMightWork.pdb

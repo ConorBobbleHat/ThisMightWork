@@ -1,0 +1,14 @@
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\ThisMightWork.exe.config
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\ThisMightWork.exe
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\ThisMightWork.pdb
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\LightBuzz.Vitruvius.dll
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\Newtonsoft.Json.dll
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\websocket-sharp.dll
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\Microsoft.Kinect.dll
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\LightBuzz.Vitruvius.xml
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\Newtonsoft.Json.xml
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\websocket-sharp.xml
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\x86\Release\Microsoft.Kinect.xml
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\obj\x86\Release\ThisMightWork.exe
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\obj\x86\Release\ThisMightWork.pdb
+C:\Users\Conor\Documents\Visual Studio 2015\Projects\ThisMightWork\ThisMightWork\obj\x86\Release\ThisMightWork.csprojResolveAssemblyReference.cache

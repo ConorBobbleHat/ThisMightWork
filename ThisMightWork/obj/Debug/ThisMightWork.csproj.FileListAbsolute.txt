@@ -1,0 +1,8 @@
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\Debug\ThisMightWork.exe.config
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\Debug\ThisMightWork.exe
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\Debug\ThisMightWork.pdb
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\obj\Debug\ThisMightWork.csprojResolveAssemblyReference.cache
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\obj\Debug\ThisMightWork.exe
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\obj\Debug\ThisMightWork.pdb
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\Debug\websocket-sharp.dll
+c:\users\conor\documents\visual studio 2015\Projects\ThisMightWork\ThisMightWork\bin\Debug\websocket-sharp.xml
