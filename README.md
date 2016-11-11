@@ -7,7 +7,6 @@ This is the server half of the ThisMightWork program. This is a program that wil
 
 You can find the client [here](https://github.com/2BoysAndHats/KinectJSBridge).
 
-
 ## Installation
 
 ### Step one: Hardware
@@ -30,3 +29,11 @@ You should see the standard windows driver installation window. When it's done, 
 Now download the latest server software from [here](https://github.com/2BoysAndHats/ThisMightWork/raw/master/TMW_Setup.exe)
 
 Run the installer, and when you're done, you're ready to try the demos (included in the [client software](https://github.com/2BoysAndHats/KinectJSBridge).), or start coding!
+
+## Credits
+
+This library is built on 
+
+* [The Microsoft v2 Kinect api](https://developer.microsoft.com/en-us/windows/kinect)
+* [The Vitruvius framework](http://vitruviuskinect.com/)
+* [websocket-sharp](https://github.com/sta/websocket-sharp)
