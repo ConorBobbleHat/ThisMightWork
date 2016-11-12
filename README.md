@@ -23,11 +23,13 @@ Simply connect according to the instructions on the box. <b>Don't plug it into y
 
 Once you've linked everything together, plug the usb end into a <b>USB 3.0</b> port on your computer. USB 2.0 will not work.
 
-You should see the standard windows driver installation window. When it's done, reboot your pc.
+You should see the standard windows driver installation window. (It may be minimized) When it's done, reboot your pc.
 
 ### Step three: Installing the software
+Now you need to install the Kinect v2 SDK. You can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=44561) (press continue & install.)
 
-Now download the latest ThisMightWork server software from [here](https://github.com/2BoysAndHats/ThisMightWork/raw/master/TMW_Setup.exe)
+
+Next, download the latest ThisMightWork server software from [here](https://github.com/2BoysAndHats/ThisMightWork/raw/master/TMW_Setup.exe)
 
 Run the installer, and when you're done, you're ready to try the demos (included in the [client software](https://github.com/2BoysAndHats/KinectJSBridge).), or start coding!
 
