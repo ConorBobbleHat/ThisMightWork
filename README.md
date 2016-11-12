@@ -15,6 +15,7 @@ For the library to run correctly, you will need
 
 * A Kinect V2 sensor
 * A Kinect V2 adaptor
+* A 64 bit windows machine, with a USB 3.0 processer [(for more details, see the microsoft page, look under recommended system requirements)](https://www.microsoft.com/en-us/download/details.aspx?id=44561) 
 
 Simply connect according to the instructions on the box. <b>Don't plug it into your pc just yet.</b>
 
