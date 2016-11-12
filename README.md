@@ -27,7 +27,7 @@ You should see the standard windows driver installation window. When it's done, 
 
 ### Step three: Installing the software
 
-Now download the latest server software from [here](https://github.com/2BoysAndHats/ThisMightWork/raw/master/TMW_Setup.exe)
+Now download the latest ThisMightWork server software from [here](https://github.com/2BoysAndHats/ThisMightWork/raw/master/TMW_Setup.exe)
 
 Run the installer, and when you're done, you're ready to try the demos (included in the [client software](https://github.com/2BoysAndHats/KinectJSBridge).), or start coding!
 
